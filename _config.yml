@@ -1,0 +1,31 @@
+title:               Laser Kiwi
+tagline:             "Everything you need to know about moving to New Zealand"
+description: >
+  Everything you need to know about moving to New Zealand
+url:                 "http://laserkiwi.com"
+rss:                 feed.xml # path to RSS feed
+
+# Paths
+baseurl_posts_img:   '/assets/images/posts/'
+baseurl_featured_img: '/assets/images/hero/'
+baseurl_featured_thumbnail: '/assets/images/thumbnail/'
+baseurl_javascripts: '/assets/javascripts/'
+
+# Mailchimp form
+mailchimp_enabled:   true
+
+# Comments
+disqus_enabled:      true
+disqus:              laserkiwi # get it on https://disqus.com/admin/
+
+# Social
+icon:                "path/to/site/icon" # e.g. /assets/img/icon.png [best 300px X 300px]
+author:
+  name:           	 Katie Macoy
+  url:            	 www.laserkiwi.com
+  facebook:          username
+  twitter:           username
+  linkedin:          username
+  dribbble:          katiemacoy
+fb_admins:           your facebook profile id
+fb_appid:            your facebook app id
